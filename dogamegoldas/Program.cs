@@ -10,6 +10,20 @@ namespace dogamegoldas
     class Program
     {
         static void Main(string[] args)
+
+            //adatok.txt
+            //4
+            //5
+            //23
+            //6
+            //7
+            //10
+            //11
+            //23
+            //67
+            //3
+
+
         {
             Console.WriteLine("\"adatok.txt\" fájl feldolgozása......");
 
@@ -50,6 +64,19 @@ namespace dogamegoldas
             }
 
             Console.WriteLine("\n--**--**--\n");
+
+            //parban.txt
+            //75; 18
+            //27; 16
+            //81; 89
+            //40; 96
+            //62; 63
+            //5; 32
+            //7; 22
+            //3; 99
+            //25; 46
+            //79; 86
+
 
             Console.WriteLine("\"parban.txt\" fájl feldolgozása......");
 
